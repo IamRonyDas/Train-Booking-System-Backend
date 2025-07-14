@@ -12,12 +12,14 @@ A simple Train Booking System backend built with Java that supports:
 ✅ Data persistence using local JSON files
 
 📂 Features
+
 👤 User Management
 Signup with username and password
 
 Secure password hashing with bcrypt
 
 Login with credential verification
+
 
 🚉 Train Management
 Search trains between two stations
@@ -28,13 +30,16 @@ Book a seat by specifying row & column
 
 Cancel booked tickets
 
+
 📄 Data Storage
 Users and tickets stored in users.json
 
 Train data stored in trains.json
 
+
 💻 CLI Menu Interface
 Interactive command-line UI for all operations
+
 
 🏗️ Tech Stack
 Java
@@ -42,6 +47,7 @@ Java
 Jackson (for JSON parsing)
 
 BCrypt (for password hashing)
+
 
 🚀 Future Enhancements
 Replace JSON storage with MongoDB or MySQL
